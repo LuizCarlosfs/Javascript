@@ -1,0 +1,134 @@
+Tags HTML:
+
+Tag	Descrição
+<!--...-->	Define um comentário, ou seja, algo que não será renderizado na tela
+<!DOCTYPE> 	Define o tipo de documento HTML
+<a>	Define um link
+<abbr>	Define uma abreviação ou um acrônimo
+<acronym>	Tag não suportada em HTML5. Use a tag <abbr>.
+Define um acrônimo
+<address>	Define informações de contato para o autor da página HTML
+<applet>	Tag não suportada em HTML5. Use <embed> ou <object> no lugar.
+Define uma funcionalide embutida
+<area>	Define uma área dentro de um mapa de imagem
+<article>	Define um artigo
+<aside>	Define um conteúdo complementar, além do conteúdo da página. Ex: sidebar
+<audio>	Define um conteúdo em áudio
+<b>	Define texto em negrito
+<base>	Especifica a URL base para todos os URLs relativos em uma página HTML
+<basefont>	Tag não suportada em HTML5. Use CSS no lugar.
+Especifica uma cor, tamanho e fonte padrão para todo o texto em uma página
+<bdi>	Isola uma parte do texto que pode ser formatada em uma direção diferente
+<bdo>	Substitui a direção atual do texto
+<big>	Tag não suportada em HTML5. Use CSS no lugar.
+Define um texto maior
+<blockquote>	Define um texto que é citação de outra fonte
+<body>	Define o corpo da página
+<br>	Define uma simples quebra de linha
+<button>	Define um botão
+<canvas>	Usado para desenhar gráficos via script (geralmente JavaScript)
+<caption>	Define uma legenda de tabela
+<center>	Tag não suportada em HTML5. Use CSS no lugar.
+Define um texto centralizado
+<cite>	Define o título de um trabalho
+<code>	Define um pedaço de código de computador
+<col>	Especifica as propriedades da coluna dentro de um elemento <colgroup>
+<colgroup>	Especifica um grupo de uma ou mais colunas em uma tabela para formatação
+<data>	Vincula o conteúdo fornecido a uma leitura legível por máquina
+<datalist>	Especifica uma lista de opções predefinidas para controles de entrada
+<dd>	Define um valor de um termo em uma lista de descrição
+<del>	Define o texto que foi excluído de um documento
+<details>	Define detalhes adicionais que o usuário pode visualizar ou ocultar
+<dfn>	Representa a instância de definição de um termo
+<dialog>	Define uma caixa de diálogo ou janela
+<dir>	Tag não suportada em HTML5. Use <ul> no lugar.
+Define uma lista de diretórios
+<div>	Define um bloco de conteúdo na página
+<dl>	Define uma lista de descrição
+<dt>	Define um termo ou nome em uma lista de descrição
+<em>	Define texto enfatizado (itálico)
+<embed>	Define um contêiner para um aplicativo externo (não HTML)
+<fieldset>	Agrupa elementos relacionados de um formulário
+<figcaption>	Define uma legenda para uma tag <figure>
+<figure>	Define uma área para inserir imagem
+<font>	Tag não suportada em HTML5. Use CSS no lugar.
+Define a fonte, a cor e o tamanho do texto
+<footer>	Define um rodapé para a página HTML ou seção
+<form>	Define um formulário
+<frame>	Tag não suportada em HTML5.
+Define um quadro independente dentro de um conjunto de quadros
+<frameset>	Tag não suportada em HTML5.
+Define um conjunto de quadros
+<h1> até <h6>	Define os títulos do documento
+<head>	Define informações sobre o documento e recursos auxiliares
+<header>	Define um cabeçalho visível para a página ou seção.
+<hr>	Define uma mudança temática no conteúdo (linha divisória)
+<html>	Define a raiz de um documento HTML
+<i>	Define uma parte do texto em uma voz ou humor alternativo
+<iframe>	Define um quadro independente na página (Ex: Vídeo YouTube)
+<img>	Define uma imagem
+<input>	Define um elemento de entrada de dados
+<ins>	Define um texto que foi inserido em um documento
+<kbd>	Define a entrada do teclado
+<label>	Define um rótulo para um elemento <input>
+<legend>	Define uma legenda para um elemento <fieldset>
+<li>	Define um item de lista
+<link>	Define um relação entre um documento e um recurso externo (Ex: usado para vincular estilos CSS)
+<main>	Especifica o conteúdo principal de um documento
+<map>	Define um mapa de imagem do lado do cliente (navegador)
+<mark>	Define texto marcado ou realçado
+<meta>	Define metadados sobre um documento HTML inseridos na tag <head>
+<meter>	Define uma medida escalar dentro de um intervalo conhecido (um medidor)
+<nav>	Define uma estrutura de links para navegação
+<noframes>	Tag não suportada em HTML5.
+Define um conteúdo alternativo para usuários que não suportam quadros
+<noscript>	Define um conteúdo alternativo para usuários que não suportam scripts no navegador
+<object>	Define um objeto incorporado
+<ol>	Define uma lista ordenada
+<optgroup>	Define um grupo de opções relacionadas em uma lista suspensa
+<option>	Define uma opção em uma lista suspensa
+<output>	Define o resultado de um cálculo
+<p>	Define um parágrafo
+<param>	Define um parâmetro para um objeto
+<picture>	Define um contêiner para vários recursos de imagem
+<pre>	Define o texto pré-formatado
+<progress>	Representa o progresso de uma tarefa
+<q>	Define uma cotação curta
+<rp>	Define o que mostrar em navegadores que não suportam anotações de ruby
+<rt>	Define uma explicação / pronúncia de caracteres (para tipografia do leste asiático)
+<ruby>	Define uma anotação rubi (para tipografia do leste asiático)
+<s>	Define o texto que não está mais correto
+<samp>	Define a saída de amostra de um programa de computador
+<script>	Define um código JavaScript
+<section>	Define uma seção em um documento
+<select>	Define uma lista suspensa
+<small>	Define texto menor
+<source>	Define vários recursos de mídia (<video> e <audio>)
+<span>	Define um bloco de linha para texto curto
+<strike>	Tag não suportada em HTML5. Use <del> ou <s> no lugar.
+Define o texto tachado
+<strong>	Define um texto importante em negrito
+<style>	Define informações de estilo CSS para um documento HTML
+<sub>	Define um texto subscrito
+<summary>	Define um título visível para um elemento <details>
+<sup>	Define um texto sobrescrito
+<svg>	Define um contêiner para gráficos SVG
+<table>	Define uma tabela
+<tbody>	Agrupa o conteúdo do corpo em uma tabela
+<td>	Define uma célula de tabela
+<template>	Define um template
+<textarea>	Define uma área para entrada de texto longo em formulário
+<tfoot>	Agrupa o conteúdo do rodapé em uma tabela
+<th>	Define uma célula de cabeçalho em uma tabela
+<thead>	Agrupa o conteúdo do cabeçalho em uma tabela
+<time>	Define um elemento data ou hora
+<title>	Define o título do documento
+<tr>	Define uma linha de tabela
+<track>	Define faixas de texto para elementos de mídia (<video> and <audio>)
+<tt>	Tag não suportada em HTML5. Use CSS no lugar.
+Define o texto do teletipo
+<u>	Define o texto sublinhado
+<ul>	Define uma lista não ordenada
+<var>	Define uma variável
+<video>	Define um vídeo
+<wbr>	Define uma possível quebra de linha
